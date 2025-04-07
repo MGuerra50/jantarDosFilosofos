@@ -1,3 +1,11 @@
+/*
+ * Integrantes do grupo:
+ * Ana Carolina Silva Borges
+ * Gabriel Sateles de Andrade Rangel
+ * Marcos Kazu Yamara Watanabe
+ * Matheus Guerra Martins
+*/
+
 import java.util.*;
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicBoolean;
